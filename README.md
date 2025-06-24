@@ -84,7 +84,7 @@ This project was created using HTML, CSS, and JavaScript for frontend functional
 ---
 
 ## 📫 Contact
-
+**Varshini Reddy**  
 📧 varshinimomula@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/momula-varshini-reddy-400214238)  
 🐙 [GitHub](https://github.com/VarshiniReddy05)
